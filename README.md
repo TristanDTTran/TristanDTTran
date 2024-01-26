@@ -8,8 +8,10 @@ I am a software development student at Monash University located in Melbourne, A
 <br/>
 
 # 🛠 Proficiencies 
-Programming: `Python` `HTML` `CSS` `Java`
-Version Control: `Git`
+Programming: `Python` `HTML` `CSS` `Java`\
+<br/>
+Version Control: `Git`\
+<br/>
 Backend Development: TBA
 
 <br/>
