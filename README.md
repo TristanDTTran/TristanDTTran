@@ -1,4 +1,4 @@
-# Hello, I'm Tristan 👋
+# 👋 Hello, I'm Tristan 
 
 I am a software development student at Monash University located in Melbourne, AUS, and I'm passionate about creating new and innovative ideas. 
 
@@ -7,7 +7,12 @@ I am a software development student at Monash University located in Melbourne, A
   
 <br/>
 
-# Proficiencies 🛠
+# 🛠 Proficiencies 
 Programming: `Python` `HTML` `CSS` `Java`
 Version Control: `Git`
 Backend Development: TBA
+
+<br/>
+
+# ☎ Contact 
+Please DM me on [LinkedIn](https://www.linkedin.com/in/tristan-td-tran/) or [Instagram](https://www.instagram.com/trist.tran/)
