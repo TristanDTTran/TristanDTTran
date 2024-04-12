@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Tristan 
 
-I am a software development student at Monash University located in Melbourne, Australia, and I'm passionate about the creation and application of new and innovative ideas. 
+I am a Software Developemnt student at Monash University located in Melbourne, Australia, and I'm passionate about the creation and application of new and innovative ideas. 
 
 * See my [portfolio website](https://tristan-tran.com) to learn more about my experiences and projects.
 * Stay updated with my journey and career on my [LinkedIn](https://www.linkedin.com/in/tristan-td-tran/)
