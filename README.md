@@ -13,7 +13,6 @@ Libraries And Frameworks: `Node.js` `Angular` `Bootstrap CSS`\
 <br/>
 Version Control: `Git`\
 <br/>
-Backend Development: TBA
 
 <br/>
 
