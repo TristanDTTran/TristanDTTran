@@ -8,7 +8,8 @@ I am a Software Developemnt student at Monash University located in Melbourne, A
 <br/>
 
 # 🛠 Proficiencies 
-Programming: `Python` `HTML` `CSS` `Java`\
+Programming: `Python` `Java` `JavaScript` `TypeScript` `HTML` `CSS` \
+Libraries And Frameworks: `Node.js` `Angular` `Bootstrap CSS`\
 <br/>
 Version Control: `Git`\
 <br/>
